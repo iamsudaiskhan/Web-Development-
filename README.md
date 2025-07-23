@@ -26,7 +26,7 @@ Bootstrap 5
 GitHub Pages (for hosting)
 📍 Live Website
 
-Check it out here: [https://yourusername.github.io/portfolio/](https://yourusername.github.io/portfolio/)
+Check it out here: https://github.com/iamsudaiskhan/Web-Development-.git
 
 📘 Assignment Info
 
